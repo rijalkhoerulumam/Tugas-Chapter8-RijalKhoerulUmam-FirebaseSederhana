@@ -1,0 +1,2 @@
+# Tugas-Chapter8-RijalKhoerulUmam-FirebaseSederhana
+ Tugas-Chapter8-RijalKhoerulUmam-FirebaseSederhana. Untuk file projectnya saya sertakan link Gdrive untuk mengaksesnya karena jumlah file dalam project ini sekitar 15970 jadi saat saya mau upload ke git tidak bisa dikarenakan jumlah filenya yang terlalu banyak jadi saya pisahkan saja. Dan saya masukkan dalam git ini hanya link GDrive dan hasilnya saja berupa apk.
